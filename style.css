@@ -1,0 +1,54 @@
+
+/* Configura a aparência geral da página */
+body {
+    background-color: #070024;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    margin: 30px;
+}
+
+/* Personaliza o título principal */
+h1 {
+    color: #00FF99;
+    text-align: center;
+}
+
+/* Personaliza os títulos das seções */
+h2 {
+    color: #00CCFF;
+}
+
+/* Organiza os parágrafos */
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* Personaliza as imagens */
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Personaliza os links */
+a {
+    color: #00FF99;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/* Muda a aparência dos links ao passar o mouse */
+a:hover {
+    color: #00CCFF;
+    text-decoration: underline;
+}
+
+/* Personaliza as listas */
+ul, ol {
+    line-height: 1.8;
+}
+
+caption {
+    color:#00FF99;
+}
+
